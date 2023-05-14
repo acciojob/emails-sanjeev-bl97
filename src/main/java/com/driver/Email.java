@@ -26,7 +26,7 @@ public class Email {
         // 4. It contains at least one digit
         // 5. It contains at least one special character. Any character apart from alphabets and digits is a special character
 
-        boolean count = false;
+
         boolean upper = false;
         boolean lower = false;
         boolean digit = false;
