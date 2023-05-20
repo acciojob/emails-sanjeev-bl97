@@ -49,9 +49,7 @@ public class Email {
             }
 
             if(lower && upper && digit && special)
-            this.password = newPassword;
+                this.password = newPassword;
         }
-
-
     }
 }
